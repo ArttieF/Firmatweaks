@@ -1,0 +1,11 @@
+{
+    "type": "firmalife:drying",
+    "ingredient": {
+      "ingredient": {
+          "item": "tfc:food/wheat"
+      },
+    "result": {
+      "item": "tfc:seeds/wheat"
+    }
+  }
+}
