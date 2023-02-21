@@ -1,9 +1,9 @@
 {
-    "type": "firmalife:drying",
-    "ingredient": {
-          "item": "tfc:food/wheat",
-    "result": {
-      "item": "tfc:seeds/wheat"
-    }
+  "type": "firmalife:drying",
+  "ingredient": {
+    "item": "tfc:food/wheat"
+  },
+  "result": {
+    "item": "tfc:seeds/wheat"
   }
 }

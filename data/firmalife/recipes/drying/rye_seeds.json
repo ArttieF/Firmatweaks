@@ -1,9 +1,9 @@
 {
-    "type": "firmalife:drying",
-    "ingredient": {
-        "item": "tfc:food/rye_grain",
-    "result": {
-      "item": "tfc:seeds/rye"
-    }
+  "type": "firmalife:drying",
+  "ingredient": {
+      "item": "tfc:food/rye_grain"
+  },
+  "result": {
+    "item": "tfc:seeds/rye"
   }
 }

@@ -1,9 +1,9 @@
 {
-    "type": "firmalife:drying",
-    "ingredient": {
-        "item": "tfc:food/rice_grain",
-    "result": {
-      "item": "tfc:seeds/rice"
-    }
+  "type": "firmalife:drying",
+  "ingredient": {
+    "item": "tfc:food/rice_grain"
+    },
+  "result": {
+    "item": "tfc:seeds/rice"
   }
 }

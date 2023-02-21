@@ -1,9 +1,9 @@
 {
-    "type": "firmalife:drying",
-    "ingredient": {
-        "item": "tfc:food/barley_grain",
-    "result": {
-      "item": "tfc:seeds/barley"
-    }
+  "type": "firmalife:drying",
+  "ingredient": {
+    "item": "tfc:food/barley_grain"
+  },
+  "result": {
+    "item": "tfc:seeds/barley"
   }
 }

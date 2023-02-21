@@ -1,9 +1,9 @@
 {
-    "type": "firmalife:drying",
-    "ingredient": {
-        "item": "tfc:food/maize_grain",
-    "result": {
-      "item": "tfc:seeds/maize"
-    }
+  "type": "firmalife:drying",
+  "ingredient": {
+    "item": "tfc:food/maize_grain"
+    },
+  "result": {
+    "item": "tfc:seeds/maize"
   }
 }

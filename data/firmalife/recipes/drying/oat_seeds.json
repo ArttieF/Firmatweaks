@@ -1,9 +1,9 @@
 {
-    "type": "firmalife:drying",
-    "ingredient": {
-        "item": "tfc:food/oat_grain",
-    "result": {
-      "item": "tfc:seeds/oat"
-    }
+  "type": "firmalife:drying",
+  "ingredient": {
+    "item": "tfc:food/oat_grain"
+  },
+  "result": {
+    "item": "tfc:seeds/oat"
   }
 }
